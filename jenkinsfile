@@ -1,0 +1,18 @@
+pipeline {
+
+stage {
+        stage('checkout') { 
+            
+        }
+            stage('Build') { 
+            
+        }
+        stage('Test') { 
+            
+        }
+        stage('scan') { 
+            
+        }
+stage('artifactory'){
+    }}
+}
