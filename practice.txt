@@ -1,0 +1,4 @@
+# so  here we are inside a file  lest do one thing to add
+a=1+2;
+:wq!
+
